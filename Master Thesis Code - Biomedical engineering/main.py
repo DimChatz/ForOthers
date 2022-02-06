@@ -1,3 +1,9 @@
+#############################################
+###    CODE WRITTN IN MY MASTER THESIS    ###
+### BENCHMARKING OF SLIGHT ALTERNATE UNET ###
+#############################################
+
+
 # Importing libraries
 import numpy as np
 import cv2
